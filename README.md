@@ -4,7 +4,7 @@ projeto pessoal para manipulação de dietas
 
 ## Detalhes do projeto
 
-Projeto tera duas versões de front-end uma feita em angular e outra em react, ambas terão as mesmas features e visual parecido,
+Projeto terá duas versões de front-end uma feita em angular e outra em react, ambas terão as mesmas features e visual parecido,
 o mesmo para o backend que será feito tanto em node utilizando o framework NestJS como em C# com .Net Core
 
 ## Login
